@@ -1,0 +1,23 @@
+NetMarble NetCafe Launcher (Lite/Legacy)
+by fahmiyufrizal@2022
+
+Aturan pakai :
+- Anda bisa merubah dan mengembangkan isi script sesuka hati
+Namun, tolong jangan hapus credits didalamnya.
+- Jangan jual script ini, 100% free!
+
+Cara Pakai :
+1. Letakkan folder _Netcafe_Launcher_ di dalam folder Netmarble
+2. Jalankan netmarble_unload.bat, registry dan folder yang akan dibutuhkan
+akan di-copy otomatis.
+3. Selesai, silahkan jalankan netmarble_launch.exe (atau .bat) setiap menggunakan
+launcher netmarble/update game/dll.
+
+Notes :
+- Jika selesai update ada notif 'update version' jalankan netmarble_unload.bat lagi!
+- Hilangkan file .debug untuk menyembunyikan window cmd.
+
+Thank's to :
+- Allah SWT
+- BatExecutor by bdstd@2021
+- Semua yang telah memanfaatkan project ini!

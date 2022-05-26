@@ -1,0 +1,23 @@
+NetMarble NetCafe Launcher
+by fahmiyufrizal@2022
+
+Rules :
+- You can use and develop all script inside but please dont change the credits.
+- Dont sell this script, 100% free!
+
+How to use :
+1. Place folder _Netcafe_Launcher_ inside folder 'Netmarble'.
+2. Run netmarble_unload.bat, registry and folder that needed
+will be copied automatically.
+3. Done, please launch netmarble_launch.exe (atau .bat) everytime u use
+netmarble/update game/etc.
+
+Notes :
+- If you encounter 'update version' notification after update,
+run netmarble_unload.bat again!
+- Remove file .debug to hide cmd window.
+
+Thank's to :
+- Allah SWT
+- BatExecutor by bdstd@2021
+- All that use this projects!
